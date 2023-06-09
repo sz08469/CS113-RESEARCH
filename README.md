@@ -5,3 +5,8 @@
 - [https://uh.edu/nsm/math/undergraduate/courses/math3336/](https://uh.edu/nsm/math/undergraduate/courses/math3336/) #coursebook --->[https://www2.cs.uh.edu/~arjun/courses/ds/DiscMaths4CompSc.pdf] (https://www2.cs.uh.edu/~arjun/courses/ds/DiscMaths4CompSc.pdf) 
 - [http://rand.cs.uchicago.edu/cmsc271/fall21/](http://rand.cs.uchicago.edu/cmsc271/fall21/)
 - [https://math.nyu.edu/media/math/filer_public/52/c3/52c31ea2-43bd-46ad-a667-d83f2aee3233/math-ua120-fall2018-syllabus.pdf](https://math.nyu.edu/media/math/filer_public/52/c3/52c31ea2-43bd-46ad-a667-d83f2aee3233/math-ua120-fall2018-syllabus.pdf)
+- [https://www.cl.cam.ac.uk/teaching/2021/DiscMath/](https://www.cl.cam.ac.uk/teaching/2021/DiscMath/)
+## resources regarding discrete mathematics containing proofs:
+- [https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf](https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf)
+- [https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/discrete-mathematics/ProofTechniques.pdf](https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/discrete-mathematics/ProofTechniques.pdf)
+- 
