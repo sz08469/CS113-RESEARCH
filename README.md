@@ -10,4 +10,5 @@
 - [https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf](https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf)
 - [https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/discrete-mathematics/ProofTechniques.pdf](https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/discrete-mathematics/ProofTechniques.pdf)
 - [https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)
+- [https://harvard.simplesyllabus.com/en-US/doc/i7t37us2y](https://harvard.simplesyllabus.com/en-US/doc/i7t37us2y)
 - 
