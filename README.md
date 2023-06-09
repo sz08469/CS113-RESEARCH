@@ -11,5 +11,5 @@
 ## resources regarding discrete mathematics containing proofs:
 - [https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf](https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf)
 - [https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/discrete-mathematics/ProofTechniques.pdf](https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/discrete-mathematics/ProofTechniques.pdf)
-- [https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)
+- [https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)----> more recent link [https://math.berkeley.edu/~ribet/55/](https://math.berkeley.edu/~ribet/55/)
 - 
