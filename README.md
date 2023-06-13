@@ -6,7 +6,7 @@
 - [http://rand.cs.uchicago.edu/cmsc271/fall21/](http://rand.cs.uchicago.edu/cmsc271/fall21/)
 - [https://math.nyu.edu/media/math/filer_public/52/c3/52c31ea2-43bd-46ad-a667-d83f2aee3233/math-ua120-fall2018-syllabus.pdf](https://math.nyu.edu/media/math/filer_public/52/c3/52c31ea2-43bd-46ad-a667-d83f2aee3233/math-ua120-fall2018-syllabus.pdf)
 - [https://www.coursera.org/learn/discrete-mathematics](https://www.coursera.org/learn/discrete-mathematics)
-- [https://www.cs.princeton.edu/courses/archive/fall19/cos341/](https://www.cs.princeton.edu/courses/archive/fall19/cos341/)
+
 - [https://math.berkeley.edu/~apirisi/Math55/](https://math.berkeley.edu/~apirisi/Math55/)
 - [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/)
 - [https://www.cl.cam.ac.uk/teaching/2021/DiscMath/](https://www.cl.cam.ac.uk/teaching/2021/DiscMath/) material-----> [https://www.cl.cam.ac.uk/teaching/2122/DiscMath/materials.html](https://www.cl.cam.ac.uk/teaching/2122/DiscMath/materials.html)
