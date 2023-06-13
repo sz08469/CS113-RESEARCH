@@ -20,7 +20,7 @@
 - [https://www.site.uottawa.ca/~lucia/courses/2101-10/](https://www.site.uottawa.ca/~lucia/courses/2101-10/)
 - [https://catalog.swarthmore.edu/preview_course_nopop.php?catoid=7&coid=8466](https://catalog.swarthmore.edu/preview_course_nopop.php?catoid=7&coid=8466)
 - [https://web.stanford.edu/class/cs103x/](https://web.stanford.edu/class/cs103x/) ---> (Stanford's past papers)
-
+- [https://web.stanford.edu/class/cs103x/cs103x-notes.pdf](https://web.stanford.edu/class/cs103x/cs103x-notes.pdf]-----> (Stanford's notes)
 ## Resources regarding discrete mathematics containing proofs:
 - [https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf](https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf)
 - [https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/discrete-mathematics/ProofTechniques.pdf](https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/discrete-mathematics/ProofTechniques.pdf)
