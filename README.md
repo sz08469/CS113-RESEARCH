@@ -1,7 +1,6 @@
 # CS/MATH 113 - Research on Redesigning the course and making it Proof Based
 ## Links to already exisitng Proof-Based Courses on CS/MATH 113
 - [http://rand.cs.uchicago.edu/cmsc271/fall21/](http://rand.cs.uchicago.edu/cmsc271/fall21/)
-- [https://math.nyu.edu/media/math/filer_public/52/c3/52c31ea2-43bd-46ad-a667-d83f2aee3233/math-ua120-fall2018-syllabus.pdf](https://math.nyu.edu/media/math/filer_public/52/c3/52c31ea2-43bd-46ad-a667-d83f2aee3233/math-ua120-fall2018-syllabus.pdf)
 - [https://www.coursera.org/learn/discrete-mathematics](https://www.coursera.org/learn/discrete-mathematics)
 
 - [https://math.berkeley.edu/~apirisi/Math55/](https://math.berkeley.edu/~apirisi/Math55/)
