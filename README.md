@@ -14,7 +14,11 @@
 - [http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/](http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/)
 - [https://math.berkeley.edu/~williams/55.html](https://math.berkeley.edu/~williams/55.html)
 - [https://summer.uchicago.edu/course/introduction-proof-based-discrete-mathematics](https://summer.uchicago.edu/course/introduction-proof-based-discrete-mathematics) 
-
+- [http://www.cs.tufts.edu/comp/61/](http://www.cs.tufts.edu/comp/61/)
+- [https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MATH+61DM%3A+Modern+Mathematics%3A+Discrete+Methods&collapse=](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MATH+61DM%3A+Modern+Mathematics%3A+Discrete+Methods&collapse=)
+- [https://dualenrollment.dce.ufl.edu/course/cot-3100-discrete-structures/](https://dualenrollment.dce.ufl.edu/course/cot-3100-discrete-structures/)
+- [https://www.site.uottawa.ca/~lucia/courses/2101-10/](https://www.site.uottawa.ca/~lucia/courses/2101-10/)
+- [https://catalog.swarthmore.edu/preview_course_nopop.php?catoid=7&coid=8466](https://catalog.swarthmore.edu/preview_course_nopop.php?catoid=7&coid=8466)
 
 ## Resources regarding discrete mathematics containing proofs:
 - [https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf](https://mathematicalolympiads.files.wordpress.com/2012/08/75427434-problem-books-in-mathematics-problem-solving-strategies.pdf)
