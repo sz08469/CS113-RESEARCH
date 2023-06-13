@@ -25,7 +25,7 @@
 ## HARVARD UNIVERSITY:
  ### PRE CLASS WORK:
 •	Pre-class mini-lectures, readings, and problems before each class
-•	CS20 at Harvard is taught as a “flipped class”. What this means is that the traditional class lecture is provided to students as a video that they must watch prior to class so that we can spend the class time engaged in active problem solving.
+•	CS20 at Harvard is taught as a “flipped class”. What this means is that the traditional class lecture is provided to students as a video that they must watch prior to class so that students can spend the class time engaged in active problem solving.
 •	Prior to each class students are provided preparatory video and readings and some pre-class work and/or questions to help them. The questions can be in form on online quiz.
 •	First 20 minutes of class will discuss those readings and videos.
  ### IN CLASS WORK:
