@@ -1,10 +1,8 @@
 # CS/MATH 113 - Research on Redesigning the course and making it Proof Based
 ## Links to already exisitng Proof-Based Courses on CS/MATH 113
 - [http://rand.cs.uchicago.edu/cmsc271/fall21/](http://rand.cs.uchicago.edu/cmsc271/fall21/)
-- [https://www.coursera.org/learn/discrete-mathematics](https://www.coursera.org/learn/discrete-mathematics)
 - [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/)
 - [https://www.cl.cam.ac.uk/teaching/2021/DiscMath/](https://www.cl.cam.ac.uk/teaching/2021/DiscMath/) material-----> [https://www.cl.cam.ac.uk/teaching/2122/DiscMath/materials.html](https://www.cl.cam.ac.uk/teaching/2122/DiscMath/materials.html)
-- [https://harvard.simplesyllabus.com/en-US/doc/i7t37us2y](https://harvard.simplesyllabus.com/en-US/doc/i7t37us2y)
 - [http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/](http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/)
 - [https://math.berkeley.edu/~williams/55.html](https://math.berkeley.edu/~williams/55.html)
 - [https://summer.uchicago.edu/course/introduction-proof-based-discrete-mathematics](https://summer.uchicago.edu/course/introduction-proof-based-discrete-mathematics) 
