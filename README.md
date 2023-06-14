@@ -22,6 +22,10 @@
 - [https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)----> more recent link [https://math.berkeley.edu/~ribet/55/](https://math.berkeley.edu/~ribet/55/)
 - [https://discrete.openmathbooks.org/dmoi2/sec_logic-proofs.html](https://discrete.openmathbooks.org/dmoi2/sec_logic-proofs.html)
 - [https://www2.cs.uh.edu/~arjun/courses/ds/DiscMaths4CompSc.pdf](https://www2.cs.uh.edu/~arjun/courses/ds/DiscMaths4CompSc.pdf)
+- [https://www.cl.cam.ac.uk/teaching/2002/DiscMaths/DiscMaths.pdf](https://www.cl.cam.ac.uk/teaching/2002/DiscMaths/DiscMaths.pdf)
+- [http://www.people.vcu.edu/~rhammack/BookOfProof/index.html](http://www.people.vcu.edu/~rhammack/BookOfProof/index.html)
+- [https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
+- 
 ## UNIVRSITY COURSES AND THEIR IN DEPTH ANALYSIS:
 ## HARVARD UNIVERSITY:
  ### PRE CLASS WORK:
