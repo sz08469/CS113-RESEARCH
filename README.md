@@ -5,6 +5,7 @@
 - [https://www.cl.cam.ac.uk/teaching/2021/DiscMath/](https://www.cl.cam.ac.uk/teaching/2021/DiscMath/) material-----> [https://www.cl.cam.ac.uk/teaching/2122/DiscMath/materials.html](https://www.cl.cam.ac.uk/teaching/2122/DiscMath/materials.html)
 - [http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/](http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/)
 - [https://math.berkeley.edu/~williams/55.html](https://math.berkeley.edu/~williams/55.html)
+- [https://www.math.umd.edu/~immortal/CMSC250/](https://www.math.umd.edu/~immortal/CMSC250/)
 - [https://summer.uchicago.edu/course/introduction-proof-based-discrete-mathematics](https://summer.uchicago.edu/course/introduction-proof-based-discrete-mathematics) 
 - [http://www.cs.tufts.edu/comp/61/](http://www.cs.tufts.edu/comp/61/)
 - [https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MATH+61DM%3A+Modern+Mathematics%3A+Discrete+Methods&collapse=](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MATH+61DM%3A+Modern+Mathematics%3A+Discrete+Methods&collapse=)
