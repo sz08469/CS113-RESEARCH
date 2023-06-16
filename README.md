@@ -24,7 +24,7 @@
 - [https://www.cl.cam.ac.uk/teaching/2002/DiscMaths/DiscMaths.pdf](https://www.cl.cam.ac.uk/teaching/2002/DiscMaths/DiscMaths.pdf)
 - [http://www.people.vcu.edu/~rhammack/BookOfProof/index.html](http://www.people.vcu.edu/~rhammack/BookOfProof/index.html)
 - [https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
-- 
+- [https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
 ## UNIVRSITY COURSES AND THEIR IN DEPTH ANALYSIS:
 ## HARVARD UNIVERSITY:
  ### PRE CLASS WORK:
