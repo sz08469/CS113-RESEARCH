@@ -25,6 +25,7 @@
 - [http://www.people.vcu.edu/~rhammack/BookOfProof/index.html](http://www.people.vcu.edu/~rhammack/BookOfProof/index.html)
 - [https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
 - [https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
+- [https://cse.buffalo.edu/~xinhe/cse191/Classnotes/note01-1x2.pdf](https://cse.buffalo.edu/~xinhe/cse191/Classnotes/note01-1x2.pdf)
 ## UNIVRSITY COURSES AND THEIR IN DEPTH ANALYSIS:
 ## HARVARD UNIVERSITY:
  ### PRE CLASS WORK:
