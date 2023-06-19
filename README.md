@@ -28,6 +28,7 @@
 - [https://cse.buffalo.edu/~xinhe/cse191/Classnotes/note01-1x2.pdf](https://cse.buffalo.edu/~xinhe/cse191/Classnotes/note01-1x2.pdf)
 - [https://nessie.ilab.sztaki.hu/~kornai/2021/MatematikaAlapjai/ChartrandPolimeniZhang.pdf](https://nessie.ilab.sztaki.hu/~kornai/2021/MatematikaAlapjai/ChartrandPolimeniZhang.pdf)
 - [https://web.math.ucsb.edu/~agboola/teaching/2021/fall/8/liebeck.pdf](https://web.math.ucsb.edu/~agboola/teaching/2021/fall/8/liebeck.pdf)
+- [https://kupdf.net/download/how-to-read-and-do-proofs-by-daniel-solow_5904a13bdc0d602455959ed4_pdf](https://kupdf.net/download/how-to-read-and-do-proofs-by-daniel-solow_5904a13bdc0d602455959ed4_pdf)
 ## UNIVRSITY COURSES AND THEIR IN DEPTH ANALYSIS:
 ## HARVARD UNIVERSITY:
  ### PRE CLASS WORK:
