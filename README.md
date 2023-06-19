@@ -26,6 +26,8 @@
 - [https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf)
 - [https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
 - [https://cse.buffalo.edu/~xinhe/cse191/Classnotes/note01-1x2.pdf](https://cse.buffalo.edu/~xinhe/cse191/Classnotes/note01-1x2.pdf)
+- [https://nessie.ilab.sztaki.hu/~kornai/2021/MatematikaAlapjai/ChartrandPolimeniZhang.pdf](https://nessie.ilab.sztaki.hu/~kornai/2021/MatematikaAlapjai/ChartrandPolimeniZhang.pdf)
+- [https://web.math.ucsb.edu/~agboola/teaching/2021/fall/8/liebeck.pdf](https://web.math.ucsb.edu/~agboola/teaching/2021/fall/8/liebeck.pdf)
 ## UNIVRSITY COURSES AND THEIR IN DEPTH ANALYSIS:
 ## HARVARD UNIVERSITY:
  ### PRE CLASS WORK:
