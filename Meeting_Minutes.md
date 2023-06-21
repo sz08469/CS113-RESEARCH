@@ -11,6 +11,6 @@
 - Filter out Proof-Based Courses
 - Build a Matrix of Topic vs Course which indicates the presence/absence of a topic in a course
 ## June 20th, 2023
-- continue filling weekly schedule sheet
-- think about some alternative ideas/strategies on how to conduct/grade problem sets
+- Continue filling weekly schedule sheet
+- Think about some alternative ideas/strategies on how to conduct/grade problem sets
 
