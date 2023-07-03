@@ -14,6 +14,6 @@
 - Continue filling weekly schedule sheet
 - Think about some alternative ideas/strategies on how to conduct/grade problem sets
 ## Junee 27th, 2023
-- completing weekly shedule sheet sheet
-- finding a wway to include RSA and cryptography 
+- completing weekly shedule sheet
+- finding a way to include RSA and cryptography 
 
