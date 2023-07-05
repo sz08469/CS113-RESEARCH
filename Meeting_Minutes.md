@@ -1,4 +1,8 @@
 # CS/MATH 113 - Research: Meeting Minutes
+ ## July 4th, 2023
+ - Make a worksheet Template for week1. Get it approved.
+ - Think of ways to grade/ conduct problem sets.
+ - Quizzes will be conducted from  previous in-class unattempted problems.
 
 ## June 9th, 2023
 
