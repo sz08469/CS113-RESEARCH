@@ -1,0 +1,107 @@
+\documentclass{exam}
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 3}
+\date{Topic: Predicates And Quantifiers}
+\begin{document}
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering Now, you will explore additional rules of equivalences involving quantifiers. Utilize these rules along with the previous rules to establish the validity of quantified statements.
+Happy Learning!}}}
+\end{center}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+\section{Table 1: Quantifiers. }
+\vspace{5mm}
+\begin{center}
+\begin{tabular}{|c|c|c|}
+  \hline
+  Statement & When True? & When False? \\
+  \hline
+  $\forall x P(x)$ & $P(x)$ is true for every $x$. & There is an $x$ for which $P(x)$ is false. \\
+  $\exists x P(x)$ & There is an $x$ for which $P(x)$ is true. & $P(x)$ is false for every $x$. \\
+  \hline
+\end{tabular}
+\end{center}
+\vspace{5mm}
+\section{Table 2: De Morgan’s Laws for Quantifiers.}
+\begin{center}
+\begin{tabular}{|c|c|c|}
+  \hline
+  Negation & Equivalent Statement & When is Negation True? \\
+  \hline
+  $\lnot\exists x P(x)$ & $\forall x \lnot P(x)$ & For every $x$, $P(x)$ is false. \\
+  $\lnot\forall x P(x)$ & $\exists x \lnot P(x)$ & There is an $x$ for which $P(x)$ is true. \\
+  \hline
+\end{tabular}
+\end{center}
+\vspace{5mm}
+
+
+\begin{questions}
+\question Suppose that the domain of the propositional function
+P(x) consists of the integers 0, 1, 2, 3, and 4. Write out
+each of these propositions using disjunctions, conjunctions, and negations.
+\begin{parts}
+\part
+\(\exists x P(x)\)
+\vspace{1in}
+
+\part
+\(\forall x P(x)\)
+\vspace{1in}
+
+\part
+\(\exists x \lnot P(x)\)
+\vspace{1in}
+
+\part
+\(\forall x \lnot P(x)\)
+\vspace{1in}
+
+\part
+\(\lnot \exists x P(x)\)
+\vspace{1in}
+
+\part
+\(\lnot \forall x P(x)\)
+\vspace{1in}
+\end{parts}
+
+
+\question . Express the negation of these propositions using quantifiers, and then express the negation in English.
+\begin{parts}
+\part
+Some drivers do not obey the speed limit.
+\vspace{1in}
+
+\part
+All Swedish movies are serious.
+\vspace{1in}
+
+\part
+No one can keep a secret
+\vspace{1in}
+
+\part
+There is someone in this class who does not have a
+good attitude.
+\vspace{1in}
+\end{parts}
+
+
+\question Determine whether \(\forall x(P(x) \leftrightarrow Q(x))\) and \(\forall x P(x) \leftrightarrow \forall x Q(x)\) are logically equivalent. Justify your answer.
+\vspace{9in}
+
+\question Show that \(\forall x P(x) \lor \forall x Q(x)\) and \(\forall x (P(x) \lor Q(x))\) are not logically equivalent.
+
+\vspace{9in}
+
+
+\end{questions}
+\end{document}
