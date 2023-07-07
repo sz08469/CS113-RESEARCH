@@ -1,0 +1,86 @@
+\documentclass{exam}
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 3}
+\date{Topic: Predicates And Quantifiers}
+\begin{document}
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering Get ready to learn nested quantifiers, where one quantifier occurs within the scope of another quantifier. We will further explore why the order of nested quantifiers is important.
+
+Happy Learning!}}}
+\end{center}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+\section{Nested Quantifiers. }
+\vspace{5mm}
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Statement & When True & When False \\
+\hline
+$\forall x \forall y P(x, y)$ & For every pair $x, y$ & There is a pair $x, y$ \\
+& $P(x, y)$ is true & for which $P(x, y)$ is false \\
+\hline
+$\forall y \forall x P(x, y)$ & For every pair $x, y$ & There is a pair $x, y$ \\
+& $P(x, y)$ is true & for which $P(x, y)$ is false \\
+\hline
+$\forall x \exists y P(x, y)$ & For every $x$ & There is an $x$ \\
+& there is a $y$ & such that $P(x, y)$ is false \\
+\hline
+$\exists x \forall y P(x, y)$ & There is an $x$ & For every $x$ \\
+& for which $P(x, y)$ is true & there is a $y$ \\
+& for every $y$ & such that $P(x, y)$ is false \\
+\hline
+$\exists x \exists y P(x, y)$ & There is a pair $x, y$ & $P(x, y)$ is false \\
+& for which $P(x, y)$ is true & for every pair $x, y$ \\
+\hline
+$\exists y \exists x P(x, y)$ & There is a pair $x, y$ & $P(x, y)$ is false \\
+& for which $P(x, y)$ is true & for every pair $x, y$ \\
+\hline
+\end{tabular}
+
+\end{center}
+\vspace{5mm}
+
+
+\begin{questions}
+\question Express the negations of each of these statements so that
+all negation symbols immediately precede predicates.
+\begin{parts}
+\part
+ $\exists z \forall y \forall x T(x, y, z)$
+\vspace{1in}
+
+\part
+$\exists x \exists y P(x, y) \land \forall x \forall y Q(x, y)$
+\vspace{1in}
+
+\part
+$\exists x \exists y (Q(x, y) \leftrightarrow Q(y, x))$
+\vspace{1in}
+
+\part
+$\forall y \exists x \exists z (T(x, y, z) \lor Q(x, y))$
+\vspace{1in}
+\end{parts}
+
+
+\question Show that $\forall x P(x) \land \exists x Q(x)$ is logically equivalent to $\forall x \exists y (P(x) \land Q(y))$, where all quantifiers have the same nonempty domain.
+\vspace{9in}
+
+
+\question Show that $\neg \exists x \forall y P(x, y)$ and $\forall x \exists y \neg P(x, y)$ are logically equivalent, where both quantifiers over the first variable in $P(x, y)$ have the same domain, and both quantifiers over the second variable in $P(x, y)$ have the same domain.
+
+\vspace{9in}
+
+
+
+
+\end{questions}
+\end{document}
