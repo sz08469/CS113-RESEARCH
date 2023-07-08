@@ -1,0 +1,75 @@
+\documentclass{exam}
+\usepackage{amssymb}
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 6}
+\date{Topic: Laws Of Inference For Quantified Statements}
+\begin{document}
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering Building upon your understanding of the laws of inference, we will now learn these  laws for quantified statements.Happy Learning!}}}
+\end{center}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+
+\vspace{5mm}
+\begin{center}
+\begin{table}[htbp]
+\centering
+\caption{Rules of Inference for Quantified Statements}
+\begin{tabular}{|l|l|}
+\hline
+Rule of Inference & Name \\
+\hline
+$\forall x P(x)$ & \\
+$\therefore P(c)$ & Universal instantiation \\
+\hline
+$P(c)$ for an arbitrary $c$ & \\
+$\therefore \forall x P(x)$ & Universal generalization \\
+\hline
+$\exists x P(x)$ & \\
+$\therefore P(c)$ for some element $c$ & Existential instantiation \\
+\hline
+$P(c)$ for some element $c$ & \\
+$\therefore \exists x P(x)$ & Existential generalization \\
+\hline
+\end{tabular}
+\end{table}
+
+\end{center}
+\vspace{1.5in}
+
+
+\begin{questions}
+\question Identify the error or errors in this argument that supposedly shows that if $\exists x P(x) \land \exists x Q(x)$ is true, then $\exists x (P(x) \land Q(x))$ is true.
+\begin{enumerate}
+  \item $\exists xP(x) \lor \exists xQ(x)$ \textbf{Premise}
+  \item $\exists xP(x)$ \textbf{Simplification from (1)}
+  \item $P(c)$ \textbf{Existential instantiation from (2)}
+  \item $\exists xQ(x)$ \textbf{Simplification from (1)}
+  \item $Q(c)$ \textbf{Existential instantiation from (4)}
+  \item $P(c) \land Q(c)$ \textbf{Conjunction from (3) and (5)}
+  \item $\exists x(P(x) \land Q(x))$ \textbf{Existential generalization}
+\end{enumerate}
+\newpage
+\newpage
+
+
+\question Use rules of inference to show that if $\forall x(P(x) \lor Q(x))$ and $\forall x((\neg P(x) \land Q(x)) \rightarrow R(x))$ are true, then $\forall x(\neg R(x) \rightarrow P(x))$ is also true, where the domains of all quantifiers are the same.
+\vspace{9in}
+
+
+\question Use rules of inference to show that if $\forall x(P(x) \lor Q(x))$, $\forall x(\neg Q(x) \lor S(x))$, $\forall x(R(x) \rightarrow \neg S(x))$, and $\exists x\neg P(x)$ are true, then $\exists x\neg R(x)$ is true.
+
+\vspace{9in}
+
+
+
+
+\end{questions}
+\end{document}
