@@ -1,0 +1,119 @@
+\documentclass{exam}
+\usepackage{amssymb}
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 9}
+\date{Topic: Set Operations}
+\begin{document}
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering Through this lesson, we will discover set operations such as union, intersection, and complement, and will learn how to manipulate sets using established techniques. Additionally, we will explore different proof methods, including the subset method, membership table, and application of existing identities, to establish the equality of sets. Happy Learning!}}}
+\end{center}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+
+\vspace{5mm}
+\section{Set Identities:}
+
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Identity Name} & \textbf{Identity} \\
+\hline
+Identity laws & $A \cap U = A$ \\
+ & $A \cup \emptyset = A$ \\
+\hline
+Domination laws & $A \cup U = U$ \\
+ & $A \cap \emptyset = \emptyset$ \\
+\hline
+Idempotent laws & $A \cup A = A$ \\
+ & $A \cap A = A$ \\
+\hline
+Complementation law & $(A)' = A$ \\
+\hline
+Commutative laws & $A \cup B = B \cup A$ \\
+ & $A \cap B = B \cap A$ \\
+\hline
+Associative laws & $A \cup (B \cup C) = (A \cup B) \cup C$ \\
+ & $A \cap (B \cap C) = (A \cap B) \cap C$ \\
+\hline
+Distributive laws & $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$ \\
+ & $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$ \\
+\hline
+De Morgan's laws & $(A \cup B)' = A' \cap B'$ \\
+ & $(A \cap B)' = A' \cup B'$ \\
+\hline
+Absorption laws & $A \cup (A \cap B) = A$ \\
+ & $A \cap (A \cup B) = A$ \\
+\hline
+Complement laws & $A \cup A' = U$ \\
+ & $A \cap A' = \emptyset$ \\
+\hline
+\end{tabular}
+
+\section{Different Proof Methods Involving Sets:}
+\begin{tabular}{|l|p{10cm}|}
+\hline
+\textbf{Method} & \textbf{Description} \\
+\hline
+Subset method & Show that each side of the identity is a subset of the other side. \\
+\hline
+Membership table & For each possible combination of the atomic sets, show that an element in exactly these atomic sets must either belong to both sides or belong to neither side. \\
+\hline
+Apply existing identities & Start with one side, transform it into the other side using a sequence of steps by applying an established identity. \\
+\hline
+\end{tabular}
+\vspace{5mm}
+
+
+\begin{questions}
+
+
+\question Prove the second De Morgan law in Table 1 by showing that if $A$ and $B$ are sets, then $A \cup B = A \cap B$.
+\begin{parts}
+\part
+by showing each side is a subset of the other side.
+\vspace{9in}
+\part
+using a membership table
+\vspace{4in}  
+\end{parts}
+
+
+
+\question Let A and B be sets. Show that
+\begin{parts}
+\part
+$(A \cap B) \subseteq A$
+\vspace{6in}
+
+\part
+$A \subseteq (A \cup B)$
+\vspace{4in}
+
+\part
+$A - B \subseteq A$
+\vspace{6in}
+
+\part
+$A \cap (B - A) = \emptyset$
+\vspace{4in}
+
+\part
+$A \cup (B - A) = A \cup B$
+\vspace{5in}
+
+\end{parts}
+
+
+\question Show that if $A$ and $B$ are sets in a universe $U$, then $A \subseteq B$ if and only if $A \cup B = U$.
+
+\vspace{9in}
+
+
+\end{questions}
+\end{document}
