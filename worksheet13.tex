@@ -1,0 +1,69 @@
+\documentclass{exam}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 13}
+\date{Topic: Sequence Summation}
+\begin{document}
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering Today, we will learn to calculate the sum of terms in a sequence and derive summation formulas. Get ready to unlock the power of summation and discover the beauty of sequence formulas! Happy Learning!}}}
+\end{center}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+
+\vspace{5mm}
+
+\section{Table 1}
+\begin{tabular}{|c|c|}
+\hline
+Summation & Closed Form \\
+\hline
+$\displaystyle \sum_{k=0}^{n} ar^k \quad (r \neq 0)$ & $\displaystyle \frac{ar^{n+1} - a}{r - 1}, \quad (r \neq 1)$ \\
+\hline
+$\displaystyle \sum_{k=1}^{n} k$ & $\displaystyle \frac{n(n+1)}{2}$ \\
+\hline
+$\displaystyle \sum_{k=1}^{n} k^2$ & $\displaystyle \frac{n(n+1)(2n+1)}{6}$ \\
+\hline
+$\displaystyle \sum_{k=1}^{n} k^3$ & $\displaystyle \frac{n^2(n+1)^2}{4}$ \\
+\hline
+$\displaystyle \sum_{k=0}^{\infty} x^k, \quad |x| < 1$ & $\displaystyle \frac{1}{1 - x}$ \\
+\hline
+$\displaystyle \sum_{k=1}^{\infty} kx^{k-1}, \quad |x| < 1$ & $\displaystyle \frac{1}{(1 - x)^2}$ \\
+\hline
+\end{tabular}
+\newpage
+
+
+
+\begin{questions}
+
+\question Show that \[
+\sum_{j=1}^{n} (a_j - a_{j-1}) = a_n - a_0
+\]
+\vspace{9in}
+
+\question Derive the formula for $\displaystyle \sum_{k=1}^{n} k^2$ given in Table 1.
+\vspace{9in}
+
+
+\question Find following using table1:
+\begin{parts}
+\part
+\(\displaystyle \sum_{k=100}^{200} k\)
+\vspace{4in}
+\part \(\displaystyle \sum_{k=10}^{20} (k-1)(2k^2 + 1)\)
+\vspace{9in}
+\part \(\displaystyle \sum_{k=10}^{20} k^2(k-3)\)
+\vspace{4in}
+\end{parts}
+\vspace{9in}
+\end{questions}
+\end{document}
+
