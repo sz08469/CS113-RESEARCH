@@ -1,0 +1,114 @@
+\documentclass{exam}
+\usepackage{tikz}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 23}
+\date{Topic: Matching, Complete Matching, and Marriage Hall's Theorem}
+\begin{document}
+\maketitle
+\vspace{5mm}
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering As we continue our exploration of bipartite graphs, we'll now dive into an exciting topic called "Matching." We'll learn about various types of matching, such as maximum matching and perfect matching, and also will learn Marriage Hall's Theorem. Happy Learning!}}}
+\end{center}
+\vspace{5mm}
+
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill} 
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+\vspace{5mm}
+
+\section{Some Important Terms:}
+\subsection{Matching:}
+In graph theory, a matching in an undirected graph is a subset of its edges in which no two edges share a common vertex. In other words, a matching is a set of edges such that each vertex is incident to at most one edge from the set. It can be seen as a collection of non-intersecting connections between vertices.
+
+\subsection{Complete Matching:} 
+A complete matching in an undirected graph is a special type of matching in which every vertex in the graph is incident to exactly one edge from the matching. In other words, a complete matching is a matching that covers all the vertices of the graph. In a bipartite graph, a complete matching connects every vertex from one set to its corresponding vertex in the other set, forming a one-to-one pairing.
+
+\section{Hall's Marriage Theorem:}
+The bipartite graph \( G = (V, E) \) with bipartition \((V1, V2)\) has a complete matching from \( V1 \) to \( V2 \) if and only if \( |N(A)| \geq |A| \) for all subsets \( A \) of \( V1 \).
+\newpage
+
+\begin{questions}
+
+\question
+Suppose that there are four employees in the computer
+support group of the School of Engineering of a large university. Each employee will be assigned to support one
+of four different areas: hardware, software, networking,
+and wireless. Suppose that Ping is qualified to support
+hardware, networking, and wireless; Quiggley is qualified to support software and networking; Ruiz is qualified
+to support networking and wireless, and Sitea is qualified
+to support hardware and software.
+\begin{parts}
+\part
+Use a bipartite graph to model the four employees and
+their qualifications.
+\vspace{3in}
+
+\part
+Use Hall’s theorem to determine whether there is an
+assignment of employees to support areas so that each
+employee is assigned one area to support.
+\newpage
+
+\part
+If an assignment of employees to support areas exists such that
+each employee is assigned to one support area exists,
+find one.
+\vspace{3in}
+\end{parts}
+\question 
+Suppose that there are five young women and six young
+men on an island. Each woman is willing to marry some
+of the men on the island and each man is willing to marry
+any woman who is willing to marry him. Suppose that
+Anna is willing to marry Jason, Larry, and Matt; Barbara
+is willing to marry Kevin and Larry; Carol is willing to
+marry Jason, Nick, and Oscar; Diane is willing to marry
+Jason, Larry, Nick, and Oscar; and Elizabeth is willing to
+marry Jason and Matt.
+\begin{parts}
+\part
+Model the possible marriages on the island using a
+bipartite graph.
+\newpage
+
+\part
+Find a matching of the young women and the young
+men on the island such that each young woman is
+matched with a young man whom she is willing to
+marry.
+\vspace{3in}
+
+\part
+Is the matching you found in part (b) a complete
+matching? Is it a maximum matching?
+\newpage
+\end{parts}
+
+
+\question
+Suppose that 2n tennis players compete in a round-robin
+tournament. Every player has exactly one match with every other player during 2n - 1
+consecutive days. Every
+match has a winner and a loser. Show that it is possible
+to select a winning player each day without selecting the
+same player twice.(Hint: Use Marriage Hall's Theorem)
+\newpage
+
+\question
+Suppose that m people are selected as prize winners in a
+lottery, where each winner can select two prizes from a
+collection of different prizes. Show if there are 2m prizes
+that every winner wants, then every winner is able to
+select two prizes that they want.
+\newpage
+
+
+
+
+\end{questions}
+\end{document}
+
