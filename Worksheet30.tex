@@ -1,0 +1,70 @@
+\documentclass{exam}
+\usepackage{tikz}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usetikzlibrary{decorations.markings}
+
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 30}
+\date{Topic: Cryptography }
+\begin{document}
+\maketitle
+\vspace{5mm}
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering In today's session, we will study Cryptography where we'll learn how to secure information through encryption and decryption techniques and explore various algorithms. Get ready to uncover the art and science of secure communication that has shaped history and continues to play a vital role in the digital age. Happy Learning!}}}
+\end{center}
+\vspace{5mm}
+
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill} 
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+\vspace{5mm}
+
+
+
+
+\begin{questions}
+
+\question
+Encrypt the message DO NOT PASS GO by translating the letters into numbers, applying the given encryption function, and then translating the numbers back into
+letters.
+\begin{parts}
+    
+
+
+\part f(p) = (p + 3) mod 26 (the Caesar cipher)
+\newpage
+
+
+\part f(p) = (3p + 7) mod 26
+\newpage
+
+\end{parts}
+
+
+
+\question Decrypt these messages encrypted using the shift cipher
+f(p) = (p + 10) mod 26.
+\begin{parts}
+  
+\part CEBBOXNOB XYG
+\newpage
+
+\end{parts}
+
+\newpage
+
+
+\question
+Encrypt the message \texttt{GRIZZLY BEARS} using blocks of five letters and the transposition cipher based on the permutation of $\{1, 2, 3, 4, 5\}$ with $\sigma(1) = 3$, $\sigma(2) = 5$, $\sigma(3) = 1$, $\sigma(4) = 2$, and $\sigma(5) = 4$. For this exercise, use the letter \texttt{X} as many times as necessary to fill out the final block of fewer than five letters.
+\newpage
+
+\question
+Decrypt the message \texttt{EABW EFRO ATMR ASIN}, which is the ciphertext produced by encrypting a plaintext message using the transposition cipher with blocks of four letters and the permutation $\sigma$ of $\{1, 2, 3, 4\}$ defined by $\sigma(1) = 3$, $\sigma(2) = 1$, $\sigma(3) = 4$, and $\sigma(4) = 2$.
+\newpage
+
+\end{questions}
+\end{document}
+
