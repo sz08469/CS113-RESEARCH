@@ -1,0 +1,54 @@
+\documentclass{exam}
+\usepackage{tikz}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usetikzlibrary{decorations.markings}
+
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 31}
+\date{Topic: Cryptography }
+\begin{document}
+\maketitle
+\vspace{5mm}
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering Continuing our exploration of Crytography, we will learn RSA technique today which is a widely used public-key encryption technique in modern cryptography. Happy Learning!}}}
+\end{center}
+\vspace{5mm}
+
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill} 
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+\vspace{5mm}
+
+
+
+
+\begin{questions}
+
+\question
+Encrypt the message \texttt{ATTACK} using the RSA system with $n = 43 \cdot 59$ and $e = 13$, translating each letter into integers and grouping together pairs of integers.
+
+\newpage
+
+
+
+\question Encrypt the message \texttt{UPLOAD} using the RSA system with $n = 53 \cdot 61$ and $e = 17$, translating each letter into integers and grouping together pairs of integers.
+
+\newpage
+
+
+\question
+What is the original message encrypted using the RSA system with $n = 53 \cdot 61$ and $e = 17$, if the encrypted message is 3185 2038 2460 2550? (To decrypt, first find the decryption exponent $d$, which is the inverse of $e = 17$ modulo $52 \cdot 60$.)
+
+
+\newpage
+
+\question
+What is the original message encrypted using the RSA system with $n = 43 \cdot 59$ and $e = 13$, if the encrypted message is 0667 1947 0671? (To decrypt, first find the decryption exponent $d$, which is the inverse of $e = 13$ modulo $42 \cdot 58$.)
+\newpage
+
+\end{questions}
+\end{document}
+
