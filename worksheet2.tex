@@ -1,0 +1,125 @@
+\documentclass{exam}
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 2}
+\date{Topic: Logic And Proofs}
+\begin{document}
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering Use the given tables of laws/Truth tables to construct equivalences between  compound propositions.
+Happy Learning!}}}
+\end{center}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+\section{Laws Of Logical Equivalences: }
+\vspace{5mm}
+\begin{center}
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+Equivalence & Name \\
+\hline
+$p \land T \equiv p$ & Identity laws \\
+$p \lor F \equiv p$ & \\
+\hline
+$p \lor T \equiv T$ & Domination laws \\
+$p \land F \equiv F$ & \\
+\hline
+$p \lor p \equiv p$ & Idempotent laws \\
+$p \land p \equiv p$ & \\
+\hline
+$\neg (\neg p) \equiv p$ & Double negation law \\
+\hline
+$p \lor q \equiv q \lor p$ & Commutative laws \\
+$p \land q \equiv q \land p$ & \\
+\hline
+$(p \lor q) \lor r \equiv p \lor (q \lor r)$ & Associative laws \\
+$(p \land q) \land r \equiv p \land (q \land r)$ & \\
+\hline
+$p \lor (q \land r) \equiv (p \lor q) \land (p \lor r)$ & Distributive laws \\
+$p \land (q \lor r) \equiv (p \land q) \lor (p \land r)$ & \\
+\hline
+$\neg (p \land q) \equiv \neg p \lor \neg q$ & De Morgan’s laws \\
+$\neg (p \lor q) \equiv \neg p \land \neg q$ & \\
+\hline
+$p \lor (p \land q) \equiv p$ & Absorption laws \\
+$p \land (p \lor q) \equiv p$ & \\
+\hline
+$p \lor \neg p \equiv T$ & Negation laws \\
+$p \land \neg p \equiv F$ & \\
+\hline
+\end{tabular}
+\end{table}
+
+\end{center}
+\vspace{5mm}
+\begin{center}
+\begin{tabular}{|c|c|}
+  \hline
+  Equivalence & Rule \\
+  \hline
+  Conditional Law 1 & $p \rightarrow q \equiv \lnot p \lor q$ \\
+  Conditional Law 2 & $p \rightarrow q \equiv \lnot q \rightarrow \lnot p$ \\
+  Conditional Law 3 & $p \lor q \equiv \lnot p \rightarrow q$ \\
+  Conditional Law 4 & $p \land q \equiv \lnot (p \rightarrow \lnot q)$ \\
+  Conditional Law 5 & $\lnot (p \rightarrow q) \equiv p \land \lnot q$ \\
+  Conditional Law 6 & $(p \rightarrow q) \land (p \rightarrow r) \equiv p \rightarrow (q \land r)$ \\
+  Conditional Law 7 & $(p \rightarrow r) \land (q \rightarrow r) \equiv (p \lor q) \rightarrow r$ \\
+  Conditional Law 8 & $(p \rightarrow q) \lor (p \rightarrow r) \equiv p \rightarrow (q \lor r)$ \\
+  Conditional Law 9 & $(p \rightarrow r) \lor (q \rightarrow r) \equiv (p \land q) \rightarrow r$ \\
+  \hline
+\end{tabular}
+\end{center}
+\vspace{5mm}
+\begin{center}
+    \begin{tabular}{|c|c|}
+  \hline
+  Equivalence & Rule \\
+  \hline
+  Biconditional Law 1 & $p \leftrightarrow q \equiv (p \rightarrow q) \land (q \rightarrow p)$ \\
+  Biconditional Law 2 & $p \leftrightarrow q \equiv \lnot p \leftrightarrow \lnot q$ \\
+  Biconditional Law 3 & $p \leftrightarrow q \equiv (p \land q) \lor (\lnot p \land \lnot q)$ \\
+  Biconditional Law 4 & $\lnot (p \leftrightarrow q) \equiv p \leftrightarrow \lnot q$ \\
+  \hline
+\end{tabular}
+
+\end{center}
+
+
+\begin{questions}
+\question Show that following conditional statements are tautologies. (use laws of equivalences and not the truth table to prove it.)
+\begin{parts}
+\part
+\[(\neg p \land (p \lor q)) \rightarrow q\]
+\vspace{4in}
+
+\part
+\[((p \rightarrow q) \land (q \rightarrow r)) \rightarrow (p \rightarrow r)\]
+\vspace{4in}
+
+\part
+\[(p \land (p \rightarrow q)) \rightarrow q\]
+\vspace{4in}
+
+\part
+\[((p \lor q) \land (p \rightarrow r) \land (q \rightarrow r)) \rightarrow r\]
+\vspace{4in}
+\end{parts}
+
+
+\question Show using truth table that \((p \rightarrow r) \land (q \rightarrow r)\) and \((p \lor q) \rightarrow r\) are logically equivalent.
+
+
+\vspace{9in}
+
+\question Show using truth table that \((p \lor q) \land (\neg p \lor r) \rightarrow (q \lor r)\) is tautology. 
+
+\vspace{9in}
+\end{questions}
+\end{document}
