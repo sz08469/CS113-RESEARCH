@@ -1,0 +1,108 @@
+\documentclass{exam}
+\usepackage{amssymb}
+\title{CS113/DISCRETE MATHEMATICS-SPRING 2024}
+\author{Worksheet 5}
+\date{Topic: Laws Of Inference}
+\begin{document}
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering Today, we will explore the Laws of Inference, discovering how they help us draw logical and valid conclusions from various premises.Happy Learning!}}}
+\end{center}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Student's Name and ID:\enspace\hrulefill}
+
+\vspace{5mm}
+\makebox[0.75\textwidth]{Instructor’s name:\enspace\hrulefill}
+
+\section{Laws Of Inference: }
+\vspace{5mm}
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Rule of Inference & Tautology & Name \\
+\hline
+$p$ & & \\
+$p \rightarrow q$ & & \\
+\hline
+$ \therefore q$ & $\left(p \land (p \rightarrow q)\right) \rightarrow q$ & Modus ponens \\
+
+\hline
+$\neg q$ & &\\
+$p \rightarrow q$ & &\\
+\hline
+$\therefore \neg p$ & $\left(\neg q \land (p \rightarrow q)\right) \rightarrow \neg p$ & Modus tollens \\
+\hline
+
+$p \rightarrow q$ & &\\
+$q \rightarrow r$ & & \\
+\hline
+$\therefore p \rightarrow r$ & $\left((p \rightarrow q) \land (q \rightarrow r)\right) \rightarrow (p \rightarrow r)$ & Hypothetical syllogism \\
+\hline
+
+$p \lor q$ & & \\
+$\neg p$ & & \\
+\hline
+$\therefore q$ & $\left((p \lor q) \land \neg p\right) \rightarrow q$ 
+& Disjunctive syllogism \\
+
+\hline
+$p$ & & \\
+\hline
+$\therefore p \lor q$
+& $p \rightarrow (p \lor q)$ & Addition \\
+\hline
+$p \land q$ & &\\
+\hline
+$\therefore p$ & $(p \land q) \rightarrow p$ & Simplification \\
+\hline
+$p$ & &\\
+$q$ & &\\
+\hline
+$\therefore p \land q$ & $ ((p) \land (q)) \rightarrow ( p \land q)$
+& Conjunction \\
+\hline
+$p \lor q$ & & \\
+$\neg p \lor r$ & & \\
+\hline
+$\therefore q \lor r$ & $
+((p \lor q) \land (\neg p \lor r)) \rightarrow (q \lor r) $  &Resolution \\
+\hline
+
+\end{tabular}
+\end{center}
+\vspace{15mm}
+
+
+\begin{questions}
+\question Show that the premises “It is not sunny this afternoon and it is colder than yesterday,” “We will
+go swimming only if it is sunny,” “If we do not go swimming, then we will take a canoe trip,”
+and “If we take a canoe trip, then we will be home by sunset” lead to the conclusion “We will
+be home by sunset.”
+\vspace{9in}
+
+
+\question Given the following premises:
+$ P \land Q$ \\
+$ P \rightarrow \neg(Q \land R)$ \\
+$ S \rightarrow R$ \\
+
+
+\textbf{Prove:} $\neg S$.
+
+\vspace{9in}
+
+
+\question If Superman were able and willing to prevent evil,
+he would do so. If Superman were unable to prevent evil, he would be impotent; if he were unwilling
+to prevent evil, he would be malevolent. Superman
+does not prevent evil. If Superman exists, he is neither impotent nor malevolent. Determine whether the conclusion that Superman does not exist is valid or not.Start this question by identifying all the premises.
+
+\vspace{9in}
+
+
+
+
+\end{questions}
+\end{document}
